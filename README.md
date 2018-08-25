@@ -6,7 +6,7 @@ Ahead of our upcoming Sprint Challenge, let's practice a few skills.
 As always....
 
 
-##Part I
+# Part I
 
 * [ ] Fork/Clone this repository.
 
@@ -39,7 +39,7 @@ We're going to create a small coffee business and practice writing Class constru
 
 * [ ] Barista will have a phrase (for when they successfully complete an order) and speed (fast or slow). Their functions are takeOrder, which asks the customer for their order, and completeOrder, which tells the customer their drink order and that it is complete.
 
-##Stretch goals:
+## Stretch goals:
 
 * [ ] Add in a tip function for customers, that gives a larger tip for the faster the barista finishes the order. Adjust the barista's speed to become a variable integer using Math.Random()
 
